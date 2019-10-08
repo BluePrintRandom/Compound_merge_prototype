@@ -23,7 +23,7 @@ SOFTWARE.
 
 
 # Compound_merge_prototype
-trying to design a modifier for blender - protorying in upbge_eevee
+trying to design a modifier for blender - protoTyping in upbge_eevee
 
 
 loops through vertex dropping them into a grid, and listing their connections in space.
